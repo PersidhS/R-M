@@ -68,3 +68,15 @@ main > button {
     display: flex;
     line-break: strict;
 }
+#detalhes-container3{
+
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;            
+    font-size: 17px;
+    font-style: normal;
+    font-weight: bolder;
+    height: 60px;
+    letter-spacing: 0.25px;
+    list-style-type: none;
+    width: 400px;
+}
