@@ -7,3 +7,13 @@ body {
     width: 100vw;                                                      
 }
 
+main { 
+    display: contents;
+    height: 100%;
+    text-decoration-line: none;
+}
+main > section img{
+    border-radius: 40px;
+    height: 280px;
+    width: 290px;
+}
