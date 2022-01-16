@@ -45,3 +45,8 @@ main > button {
     list-style-type: none;        
     width: 350px;
 }
+#detalhes-container1 > li {
+    align-items: baseline;
+    display: flex;
+    line-break: strict;
+}
