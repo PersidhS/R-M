@@ -17,3 +17,19 @@ main > section img{
     height: 280px;
     width: 290px;
 }
+
+main > button {
+    object-position: fixed;
+    align-items: center;
+    background-color: rgba(24,63,100,0.24);
+    border-radius: 49px;
+    color: rgb(255,255,255);
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 17px;
+    font-weight: 600;
+    letter-spacing: 1px;    
+    margin-left: 400px;
+    margin-top: 80px;
+    padding: 10px 40px;
+        
+}
