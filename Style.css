@@ -85,3 +85,9 @@ main > button {
     display: flex;
     line-break: strict;
 }
+#group{
+    display: grid;
+    grid-template-columns: repeat(4, 200px);
+    grid-gap: 300px;
+    line-height: 0px;
+}
