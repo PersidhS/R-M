@@ -33,3 +33,15 @@ main > button {
     padding: 10px 40px;
         
 }
+
+#detalhes-container1{
+    color: black;
+    font-family: 'Montserrat', sans-serif;            
+    font-size: 17px;
+    font-style: normal;
+    font-weight: bolder;
+    height: 60%;
+    letter-spacing: 1px;
+    list-style-type: none;        
+    width: 350px;
+}
